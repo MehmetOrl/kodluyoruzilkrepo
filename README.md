@@ -19,4 +19,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Licence
 [MIT](https://choosealicense.com/licenses/mit/)
-![Resim](C:\Users\memo8\OneDrive\Belgeler\vscode\odev\resim.png)
+
+![Resim](resim.png)
+
